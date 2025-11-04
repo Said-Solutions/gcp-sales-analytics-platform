@@ -1,0 +1,7 @@
+store_id,timestamp,product,quantity,price
+A1,2025-11-01T12:30:00Z,Keyboard,2,49.99
+A2,2025-11-01T13:15:00Z,Mouse,1,19.99
+A1,2025-11-02T09:05:00Z,Monitor,1,149.00
+B7,2025-11-02T10:20:00Z,USB-C Cable,3,7.50
+B7,invalid-ts,Laptop Stand,1,24.99
+,2025-11-02T11:00:00Z,Webcam,1,39.99
